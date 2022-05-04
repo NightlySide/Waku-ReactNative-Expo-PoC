@@ -1,4 +1,5 @@
 import "./shim.js";
+import "react-native-get-random-values";
 
 import { StatusBar } from "expo-status-bar";
 import { Waku } from "js-waku";
